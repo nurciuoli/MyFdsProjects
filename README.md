@@ -1,7 +1,7 @@
 # MyProjects
 Specific projects utilizing FdsPy wrapper
 
-## [Example Datasets] (https://github.com/nurciuoli/MyProjects/tree/main/examples/datasets)
+## [Example Datasets](https://github.com/nurciuoli/MyProjects/tree/main/examples/datasets)
  - Broker Detail Estimates
  - Deep Sector Banking
  - ETF Fund Flows
