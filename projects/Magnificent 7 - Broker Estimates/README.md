@@ -6,4 +6,5 @@
 ![image](https://github.com/nurciuoli/MyFdsProjects/assets/57609455/b5115c3d-360f-4e8f-9691-853fc27ef175)
 
 #### Analysts still seem to struggle to come to a consensus on next quarter's earnings per share
-![image](https://github.com/nurciuoli/MyFdsProjects/assets/57609455/a9ce4747-ce9c-444c-885b-4da64ab46ca9)
+![image](https://github.com/nurciuoli/MyFdsProjects/assets/57609455/a5a4d93e-43c2-4408-a807-ca0f07434ac2)
+
