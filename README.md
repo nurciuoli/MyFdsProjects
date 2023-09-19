@@ -19,5 +19,6 @@ Specific projects utilizing FdsPy wrapper
 - [__Nvidia Holders__](https://github.com/nurciuoli/FdsPy/tree/main/analysis/Nvidia%20Holder%20Analysis) - Analysis of Mutual funds that current hold Nvidia
 
 ## Misc. Gallery
-![image](https://github.com/nurciuoli/MyFdsProjects/assets/57609455/d0834357-90d6-41ca-b9c1-0aef26dbf39e)
+![image](https://github.com/nurciuoli/MyFdsProjects/assets/57609455/92a0635b-0df0-4e91-8211-efe0a3065309)
+
 
