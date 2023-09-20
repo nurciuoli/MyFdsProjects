@@ -1,14 +1,6 @@
 # MyProjects
 Specific projects utilizing FdsPy wrapper
 
-## [Example Datasets](https://github.com/nurciuoli/MyProjects/tree/main/examples/datasets)
- - Broker Detail Estimates
- - Deep Sector Banking
- - ETF Fund Flows
- - Option Chains
- - Top Holders Ownership
- - Quant Factor Library
-
 ## [Projects](https://github.com/nurciuoli/MyProjects/tree/main/projects)
 - [__Fund Positioning__](https://github.com/nurciuoli/FdsPy/tree/main/analysis/Top%20Fund%20Positioning) - How are equity fund managers positioning relative to specific indices?? <br>
   <br>
