@@ -1,5 +1,5 @@
 # MyProjects
-Specific projects utilizing FdsPy wrapper
+Specific projects utilizing my [FdsPy](https://github.com/nurciuoli/FdsPy) wrapper
 
 ## [Projects](https://github.com/nurciuoli/MyProjects/tree/main/projects)
 - [__Fund Positioning__](https://github.com/nurciuoli/MyFdsProjects/tree/main/projects/Funds/Performance%20Leaders) - How are equity fund managers positioning relative to specific indices?? <br>
