@@ -18,4 +18,6 @@ Specific projects utilizing FdsPy wrapper
 ## Misc. Gallery
 ![image](https://github.com/nurciuoli/MyFdsProjects/assets/57609455/92a0635b-0df0-4e91-8211-efe0a3065309)
 
+![image](https://github.com/nurciuoli/MyFdsProjects/assets/57609455/6bc3f9c8-a8e6-4bb6-a373-f92b9c4a4ec6)
+
 
