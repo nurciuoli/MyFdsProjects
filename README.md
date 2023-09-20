@@ -2,7 +2,7 @@
 Specific projects utilizing my [FdsPy](https://github.com/nurciuoli/FdsPy) wrapper
 
 ## [Projects](https://github.com/nurciuoli/MyProjects/tree/main/projects)
-- [__Fund Positioning__](https://github.com/nurciuoli/MyFdsProjects/tree/main/projects/Funds/Performance%20Leaders) - How are equity fund managers positioning relative to specific indices?? <br>
+- [__Fund Positioning__](https://github.com/nurciuoli/MyFdsProjects/tree/main/projects/Funds/Performance%20Leaders) - How are equity fund managers positioning relative to their specific benchmarks?? <br>
   <br>
 ![image](https://github.com/nurciuoli/FdsPy/assets/57609455/62541bf7-0494-4d49-8d1c-0a652f109d37) <br>
 - [__The Magnificent Seven Broker Estimates__](https://github.com/nurciuoli/MyFdsProjects/tree/main/projects/Company/Magnificent%207%20-%20Broker%20Estimates) - How have broker estimates for the Magnificent 7 changed over the last 2 years? <br>
